@@ -60,7 +60,7 @@ export default function Footer() {
 
       {/* Bottom Bar */}
       <div className="border-t border-gray-600 mt-8 pt-4 text-center text-sm text-gray-400">
-        Copyright © 2023 Ruturaj Shelake. All Rights Reserved
+        Copyright © 2025 Ruturaj Shelake. All Rights Reserved
       </div>
     </footer>
   );

@@ -1,6 +1,7 @@
 import React from "react";
 import { MapPin, Phone, Mail } from "lucide-react";
 
+
 export default function AboutSection() {
   return (
     <section id="about" className="flex flex-col md:flex-row items-center justify-center px-6 md:px-16 py-12 bg-white">

@@ -1,19 +1,19 @@
 import React from "react";
 import { Link } from "react-scroll";
 
+
+
 const Navbar = () => {
   return (
     <nav className="flex justify-between items-center py-4 px-8 bg-white shadow-sm fixed top-0 left-0 right-0 z-50">
       {/* Logo & Brand */}
       <div className="flex items-center gap-2 w-50 h-14 overflow-hidden flex items-center justify-center">
         <img
-          src="/japanese-food.svg" // Replace with your actual logo path
-          alt="Bistro Bliss Logo"
+           src="/japanese-food.svg" alt="Japanese Food" 
           className="w-15 h-15"
         />
          <img
-          src="/Cuisine.svg" // Replace with your actual logo path
-          alt="Bistro Bliss Logo"
+          src="/Cuisine.svg" alt="Cuisine" // Replace with your actual logo path
           className="w-30 h-30"
         />
 
