@@ -8,7 +8,7 @@ export default function AboutSection() {
       {/* Left Section */}
       <div className="relative md:w-1/2">
         <img
-          src="/bg_about.png"
+          src="./bg_about.png"
           alt="Delicious Wraps"
           className="rounded-lg object-cover w-full h-[400px] md:h-[500px]"
         />

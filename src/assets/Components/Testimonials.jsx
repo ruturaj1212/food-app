@@ -7,21 +7,21 @@ export const testimonials = [
     text: "Last night, we dined at place and were simply blown away. From the moment we stepped in, we were enveloped in an inviting atmosphere and greeted with warm smiles.",
     name: "Sophie Robson",
     location: "Los Angeles, CA",
-    image: "/user.png", // replace with your image
+    image: "./user.png", // replace with your image
   },
   {
     quote: "Simply delicious",
     text: "Place exceeded my expectations on all fronts. The ambiance was cozy and relaxed, making it a perfect venue for our anniversary dinner. Each dish was prepared and beautifully presented.",
     name: "Matt Cannon",
     location: "San Diego, CA",
-    image: "/user.png",
+    image: "./user.png",
   },
   {
     quote: "One of a kind restaurant",
     text: "The culinary experience at place is first to none. The atmosphere is vibrant, the food – nothing short of extraordinary. The food was the highlight of our evening. Highly recommended.",
     name: "Andy Smith",
     location: "San Francisco, CA",
-    image: "/user.png",
+    image: "./user.png",
   },
 ];
 

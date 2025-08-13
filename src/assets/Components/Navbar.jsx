@@ -9,11 +9,11 @@ const Navbar = () => {
       {/* Logo & Brand */}
       <div className="flex items-center gap-2 w-50 h-14 overflow-hidden flex items-center justify-center">
         <img
-           src="/japanese-food.svg" alt="Japanese Food" 
+           src="./japanese-food.svg" alt="Japanese Food" 
           className="w-15 h-15"
         />
          <img
-          src="/Cuisine.svg" alt="Cuisine" // Replace with your actual logo path
+          src="./Cuisine.svg" alt="Cuisine" // Replace with your actual logo path
           className="w-30 h-30"
         />
 

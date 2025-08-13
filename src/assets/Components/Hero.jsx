@@ -6,7 +6,7 @@ const Hero = () => {
     <section id="home"
       className="relative bg-cover bg-center h-screen flex items-center justify-center"
       style={{
-        backgroundImage: "url('/hero-bg.png')", // replace with your image
+        backgroundImage: "url('./hero-bg.png')", // replace with your image
       }}
     >
       {/* Overlay to make text stand out if needed */}
